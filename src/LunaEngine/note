@@ -1,4 +1,0 @@
-NOTE
-
-1. GUI:
-    Should be inherited from Window_Base instead...
